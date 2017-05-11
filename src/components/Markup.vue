@@ -79,5 +79,23 @@
     .markup del {
         opacity: 0.5;
     }
+    /*
+
+        body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-size: calc(1em + 1vw);
+        line-height: 1.5em;
+    }
+    h1 {
+        font-size: calc(1em + 3vw);
+        line-height: 100%;
+    }
+    h2 {
+        font-size: calc(1em + 2vw);
+        line-height: 120%;
+    }
+    */
 
 </style>
