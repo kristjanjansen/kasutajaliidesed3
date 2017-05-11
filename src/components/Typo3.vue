@@ -3,7 +3,7 @@
 
         <div class="typo__content">
             <div :style="wrapperStyle">
-                <div v-html="renderedContent" :style="contentStyle"></div>
+                <div v-html="renderedContent"></div>
             </div>
         </div>
 
@@ -19,6 +19,9 @@
             </div>
             <div>
                 Heading bottom margin:<br><input class="typo__number" type="number" v-model="headerBottomMarginRatio" size="2"> × {{ spacer }} = {{ this.spacer * this.headerBottomMarginRatio }} 
+            </div>
+            <div>
+                Paragraph bottom margin:<br><input class="typo__number" type="number" v-model="paragraphMarginRatio" size="2"> × {{ spacer }} = {{ this.spacer * this.paragraphMarginRatio }} 
             </div>
         </div>
 
@@ -42,16 +45,10 @@
             spacer: 12,
             paddingRatio: 0,
             headerTopMarginRatio: 0,
-            headerBottomMarginRatio: 0
+            headerBottomMarginRatio: 0,
+            paragraphMarginRatio: 0
         }),
         computed: {
-            style() {
-                return {
-                    color: 'blue',
-                    marginTop: this.spacer * this.headerTopMarginRatio,
-                    marginBottom: this.spacer * this.headerBottomMarginRatio
-                }
-            },
             wrapperStyle() {
                 return {
                     width: '60vw',
@@ -60,12 +57,24 @@
 
                 }
             },
-            contentStyle() {
-                return {}
+            headingStyle() {
+                return {
+                    color: 'blue',
+                    marginTop: this.spacer * this.headerTopMarginRatio,
+                    marginBottom: this.spacer * this.headerBottomMarginRatio
+                }
+            },
+            paragraphStyle() {
+                return {
+                    marginBottom: this.spacer * this.paragraphMarginRatio
+                }
             },
             renderedContent() {
                 renderer.heading = (text, level) => {
-                    return `<h${level} style="${inline(this.style)}">${text}</h1>`
+                    return `<h${level} style="${inline(this.headingStyle)}">${text}</h1>`
+                }
+                renderer.paragraph = text => {
+                    return `<p style="${inline(this.paragraphStyle)}">${text}</p>`
                 }
                 return marked(this.content, {breaks: true, renderer})
             }
