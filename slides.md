@@ -1,7 +1,14 @@
+[[splitphoto http://i0.wp.com/www.uxdesign.blog.br/wp-content/uploads/2016/08/Don-Norman-UX-Term.jpg]]
+
+---
+
+[[Typo3,text1.md]]
+
+---
+
 # Kasutajaliideste<br>kavandamine
 
 ### MTAT.03.032
-[[Typo3 text1.md]]
 
 ---
 
@@ -77,6 +84,7 @@ https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-
 
 https://codepen.io/juliangarnier/full/mWdraw/
 http://dynamicsjs.com/
+http://cubic-bezier.com/
 
 https://greensock.com/
 https://www.smashingmagazine.com/2014/11/the-state-of-animation-2014/
@@ -120,6 +128,31 @@ https://uxdesign.cc/caveats-of-motion-in-design-9ce624c5fdf5
 
 ---
 
+# Micro
+
+---
+
+http://littlebigdetails.com/
+
+https://www.airbnb.com/asasas
+---
+
+Dan
+
+https://www.youtube.com/watch?v=9CEtqnPdWoI
+
+---
+
+(pull to refresh)
+
+https://blogs.adobe.com/creativecloud/animated-microinteractions-in-mobile-apps-part-2/
+
+https://uxplanet.org/best-practices-for-microinteractions-9456211aeed0
+
+https://medium.com/ux-in-motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86
+
+
+---
 Intro To Material Design
 
 https://www.youtube.com/watch?v=p4gmvHyuZzw
@@ -146,11 +179,20 @@ Pattern Language
 
 ---
 
+https://www.youtube.com/watch?v=Q4R7dDtLYgU
+https://independent.academia.edu/HelmutLeitner
+https://independent.academia.edu/HelmutLeitner
+
+---
+
 https://patternsday.com/
 http://www.maban.co.uk/
 
 ---
 
+https://medium.com/tangible-ux/a-history-of-patterns-in-user-experience-design-f21f7eaabb83
+
+---
 https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript
 https://current.innovatemap.com/on-the-current-state-of-design-systems-in-ux-4cd0aa1fad71
 https://medium.com/@NateBaldwin/anatomy-of-a-design-system-7a6b0677bf5
@@ -218,6 +260,8 @@ https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-produc
 
 https://medium.com/ux-power-tools/the-path-to-design-system-maturity-d403daba692a
 
+https://blog.prototypr.io/atomic-design-in-practice-does-it-work-9655bacb49d7
+
 # Designops
 
 https://medium.com/salesforce-ux/introducing-design-systems-ops-7f34c4561ba7
@@ -250,3 +294,30 @@ UI specs
 https://www.smashingmagazine.com/2016/08/pixel-perfect-specifications-without-the-headaches/
 
 ---
+
+# Branding
+
+https://medium.muz.li/when-everythings-the-same-it-s-the-brand-that-makes-the-difference-a60e5b40fdf9
+
+---
+
+# Prototyping
+
+https://blog.prototypr.io/14-prototyping-tools-how-each-can-be-used-1c804fab33a6
+
+---
+
+https://github.com/404
+https://www.airbnb.com/404
+https://www.uber.com/404/
+https://www.bloomberg.com/404
+
+https://www.figma.com/404
+http://apps.thecodepost.org/trex/trex.html
+
+---
+
+Microcopy
+
+https://www.youtube.com/watch?v=pkbO6hwLbpc
+https://medium.com/carbon-60/microcopy-speaking-human-6b839c29f889
