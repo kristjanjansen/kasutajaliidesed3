@@ -319,120 +319,282 @@ http://origami.design/
 https://material.io/stage/
 ---
 
+# Redlining
+
+---
+
+![](https://static1.squarespace.com/static/5374df1ce4b0510c9a835eb7/53853745e4b03775613aa763/5385374ce4b0342df68af0d7/1401239375919/pathbrite_ui_03.png?format=1000w)
+
+---
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/1be81a15957441.562995d11c255.jpg)
+
+---
+
+![](http://angelcolberg.com/wp-content/uploads/2013/11/WeatherChrome_UI_Redline_031212.png)
+
+---
+
+![](https://s-media-cache-ak0.pinimg.com/736x/9b/f3/42/9bf342e65ad19f87b70b9018f2f0aaf7.jpg)
+
+---
+
+![](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAK_AAAAJDI5ZTBlMzViLTkyMTAtNDhkNS04NTE0LWJmZTE1ODU4MGI5OA.png)
+
+---
+
+https://vimeo.com/191321820
+
+---
+
+https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing
+
+---
+
+---
+
+# Style guides
+
+---
+
 # Patterns
 
 ---
 
 https://www.kickstarter.com/projects/thestandardsmanual/reissue-of-the-1975-nasa-graphics-standards-manual
 
+---
+
 https://standardsmanual.com/pages/original-nycta
 
+---
+
 http://powerbranding.ru/wp-content/uploads/2013/11/adobe-brandbook.pdf
+
+---
 
 http://download.skype.com/share/blogskin/press/skype_brandbook.pdf
 
 ---
 
-Pattern Language
+# Patterns
 
 ---
 
-https://www.youtube.com/watch?v=Q4R7dDtLYgU
-https://independent.academia.edu/HelmutLeitner
-https://independent.academia.edu/HelmutLeitner
+![](https://f0c818b9-a-dd0e337e-s-sites.googlegroups.com/a/rainmagazine.com/rain/archive/1991-1/the-oregon-experiment-revisited/Picture%2057.png)
 
 ---
 
-https://patternsday.com/
-http://www.maban.co.uk/
+http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf
+
+---
+
+![](http://bradfrost.com/wp-content/themes/v7/images/brad_frost.jpg)
+
+![](https://c1.staticflickr.com/3/2533/4121459268_1dfa302c81_b.jpg)
 
 ---
 
 https://medium.com/tangible-ux/a-history-of-patterns-in-user-experience-design-f21f7eaabb83
 
+![](http://www.emdezine.com/deziningInteractions/wp-content/uploads/2017/04/HistoryofPatternsTimeline.jpg)
+
+![](https://i1.wp.com/springframework.guru/wp-content/uploads/2015/04/9780201633610.jpg)
+
+![](http://boxesandarrows.com/files/banda/implementing_a_pattern_library_in_the_real_world_a_yahoo_case_study/better_sample_pattern.gif) -> link
+
+https://yuilibrary.com/
+
+1995
+
+![](https://cdn-images-1.medium.com/max/1600/1*C4EbFYEpJXhPKaaCVLs9tw.png)
+Jenifer Tidwell
+
+https://alistapart.com/article/responsive-web-design
+![](https://responsivedesign.is/wp-content/uploads/2016/11/ethan-marcotte-blurr_g3k18l.jpg)
+Ethan Marcotte
+
 ---
-https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript
+
+![](https://images-na.ssl-images-amazon.com/images/I/51ayBF5l0gL._SX258_BO1,204,203,200_.jpg)
+
+---
+![](http://bradfrost.com/wp-content/uploads/2013/06/atomic-design.png)
+
+![](http://atomicdesign.bradfrost.com/images/content/instagram-atomic.png)
+
+---
 
 https://current.innovatemap.com/on-the-current-state-of-design-systems-in-ux-4cd0aa1fad71
 
-https://medium.com/@NateBaldwin/anatomy-of-a-design-system-7a6b0677bf5
+These things don’t manage themselves. UI standards evolve, aesthetic norms change. Even a fully optimized and automated system will be hard to keep up. Often it can take a full year to have even an MVP built for a design system. By the time you build additional components or templates, the landscape has changed.
 
-https://medium.com/eightshapes-llc/patterns-components-2ce778cbe4e8
+In times of growth and experimentation, temper the desire to systemize design. Instead, accept inevitable change, and build the design system when you need scale.
 
----
-https://medium.com/@marcintreder/the-minimum-viable-design-system-75ca1806848a
-https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d
-...jne...
+Design is a unique field which blends art and science but with its own mix of abductive reasoning and speculation that can lead to unpredictably amazing solutions. Implementing design systems in organizations must be done with care so as to optimize the right parts, while still offering the creative, untethered freedom design needs to explore. We should all be so lucky to nurture a product to the point where design systems are critical. But until that happens I advocate caution and keep focus on innovation.
 
 ---
+
+http://www.bbc.co.uk/gel
+https://vmware.github.io/clarity/
+https://www.lightningdesignsystem.com/
+https://www.ibm.com/design/language/
+https://polaris.shopify.com/
+http://design-system.lostmy.name/
+
+http://styleguides.io/
 
 http://mina.codes/articles/pantsuit-the-hillary-clinton-ui-pattern-library/
 
 ---
 
+https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript
+
+---
+
+https://medium.com/@NateBaldwin/anatomy-of-a-design-system-7a6b0677bf5
+
+![](https://cdn-images-1.medium.com/max/1600/1*XxiyR4IgdUyfd4edKpqTyQ.jpeg)
+map
+
+---
+
+https://medium.com/eightshapes-llc/patterns-components-2ce778cbe4e8
+
+* Name
+* Problem Statement
+* Sensitizing Picture (always at the top)
+* Use When (and often Don’t Use When)
+* Guidelines rich with examples and scenarios
+
+![](https://cdn-images-1.medium.com/max/1600/1*6JV8pqaPUDvzC9sRkXq8Iw.jpeg)
+pattern
+
+![](https://cdn-images-1.medium.com/max/1600/1*sA-HvD2AmdpWiHHEl5UvCA.jpeg)
+oo
+
+
+**Patterns** describe how something SHOULD work under preferred conditions and suggestions of how to cope with tradeoffs.
+Patterns may be UI or a variety of other things, like a behavior, flow, application motif or something else.
+
+**Components** are how something DOES work, inclusive of tradeoffs and constraints realized through a build process.
+Components are an interface chunk to be added to an overall layout. 
+
+2010 Bootstrap, Foundation
+
+2011 Anna Debenham 
+https://24ways.org/2011/front-end-style-guides/
+* Easier to test 
+* Better workflow
+* Shared vocabulary
+* Useful reference
+
+
+2013 Mailchimp
+http://us5.campaign-archive1.com/?u=7e093c5cf4&id=ead8a72012&e=ecb25a3f93
+
+
+---
+
+https://medium.com/@marcintreder/the-minimum-viable-design-system-75ca1806848a
+
+The style guide is an **artifact**, the design system is a **process**.
+
+**Design system** is a process and therefore is simultaneously always ready and never done.
+
+**-> Design ops**
+
+The more inconsistent the user experience, the slower product development 
+
+Of course, users suffer the most. A Google Research study from 2012 showed that users prefer simple interfaces, which seem familiar. They seek out experiences consistent with other experiences on the platform. We crave familiarity. Every new pattern responsible for the same action, or visual inconsistency, creates an unnecessary pause and an eventual burden.
+Consistency introduces feelings of safety and familiarity. Inconsistency creates chaos and confusion.
+
+---
+
+http://cssstats.com/stats?url=http%3A%2F%2Film.ee&ua=Browser%20Default
+
+http://cssstats.com/stats?link=http%3A%2F%2Ftartu.ee%2Fthemes%2Fcustom%2Ftartu%2Fstatic%2Fstyles%2Fdefault.css
+
+http://cssstats.com/stats?url=http%3A%2F%2Fcity24.ee&ua=Browser%20Default
+
+---
+
 # Making it
+
+Audit
+
+![](http://bradfrost.com/wp-content/uploads/2013/07/pnc-buttons.jpg)
 
 https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62
 https://medium.freecodecamp.com/how-to-construct-a-design-system-864adbf2a117
-https://blog.prototypr.io/design-system-ac88c6740f53
-https://medium.com/buildit/design-system-architecture-a10e7b3aa30f
-https://medium.com/@andrewcouldwell/plasma-design-system-4d63fb6c1afc
+
+Space
+
+![](https://cdn-images-1.medium.com/max/1440/1*WryHV04OjCWUxAsOV-Sn9A.png)
+
+![](https://cdn-images-1.medium.com/max/1440/1*_A26sfIPUe1wx_I-pCzvgg.png)
+
+![](https://cdn-images-1.medium.com/max/1440/1*-c4UabSTLW9fnz9OGwrP5Q.png)
+
+![](https://cdn-images-1.medium.com/max/2000/1*_bbeOmM0hC5or93Z3XoXJw.png)
+
+Button
+
+font, medium, 32px height, shadow, blue
+
+![](https://cdn-images-1.medium.com/max/2000/1*fXQ4LmK5e42mtHMk-yHaTw.png)
+
+
 ---
-
-https://medium.com/making-lost-my-name/benefits-of-a-connected-design-system-608199816f00
-
----
-# Examples
-
-https://medium.com/ge-design/ges-predix-design-system-8236d47b0891
-https://polaris.shopify.com/
 
 ---
 
 https://www.smashingmagazine.com/atomic-design-workflow/
 
-https://www.smashingmagazine.com/taking-pattern-libraries-next-level/
+* lead to cohesive, consistent experiences: users master your UI faster, leading to more conversions and more money
+* speed up your team’s workflow
+* establishes a shared vocabulary /  creates a more collaborative workflow
+* make cross-browser/device, performance, and accessibility testing easier
+* serves as a future-friendly foundation
 
-https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/
+Lego
 
-https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/
+![](https://www.smashingmagazine.com/wp-content/uploads/2016/12/lego-2-opt.png)
 
-https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/
+![](https://www.smashingmagazine.com/wp-content/uploads/2016/12/lego-3-opt.png)
 
-https://www.smashingmagazine.com/2016/05/creating-a-living-style-guide-case-study/
-
----
-
-https://www.smashingmagazine.com/2016/02/efficient-responsive-design-process/
-
----
-https://medium.com/ux-power-tools/the-path-to-design-system-maturity-d403daba692a
-
-
-https://medium.com/startup-grind/researching-design-systems-2e462d28bc70
+![](https://www.smashingmagazine.com/wp-content/uploads/2016/12/lego-4-opt.png)
 
 ---
 
-# Future
-
-https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-product-serving-products-74dcfffef935
-
-https://medium.com/ux-power-tools/the-path-to-design-system-maturity-d403daba692a
+# Problems
 
 https://blog.prototypr.io/atomic-design-in-practice-does-it-work-9655bacb49d7
 
-# Designops
+Isolation
 
-https://medium.com/salesforce-ux/introducing-design-systems-ops-7f34c4561ba7
-https://medium.com/airbnb-design/airbnb-designops-2734cf4801b3
+As soon as patterns are combined into layouts the temptation quickly becomes to use that as the reference point and avoid the individual (perhaps non-representative) pattern views.
+
+Frankenstein’s monster
+
+Having a toolkit of pre-made patterns makes it very tempting to cobble together a solution instead of devising something more appropriate from scratch.
+
+Adaptability
+
+Components have no knowledge of their own width, problematic if they’re going to be dropped into different containers.
+
 
 ---
+
+Future
+
+![](http://www.spendingtime.co/assets/11.jpg)
 
 https://airbnb.design/painting-with-code/
 http://www.jon.gold/2016/06/declarative-design-tools/
 http://www.jon.gold/2016/05/robot-design-school/
 http://github.com/jongold
-https://design-nation.icons8.com/sketching-a-design-system-with-react-sketchapp-43e24993c8f2
+
 
 https://runemadsen.com/blog/
 https://programmingdesignsystems.com
@@ -559,4 +721,59 @@ https://design.google.com/articles/making-motion-meaningful/
 
 ![](https://cdn-images-1.medium.com/max/1600/1*6YGP-5TxLJSuDwBYsKzREg.gif)
 animate on button
+
+---
+
+> https://www.youtube.com/watch?v=Q4R7dDtLYgU
+https://independent.academia.edu/HelmutLeitner
+
+> file:///Users/kristjanjansen/Downloads/Front-end_Style_Guides_-_Anna_Debenham.pdf
+
+---
+
+https://vimeo.com/184237467
+
+---
+
+https://medium.com/ge-design/ges-predix-design-system-8236d47b0891
+
+![](https://cdn-images-1.medium.com/max/1600/1*mmiJQkZVlscBj_l1_cv7kA.png)
+principles
+
+![](https://cdn-images-1.medium.com/max/1600/1*F1MXZscegCV5gOZrJL8E1w.png)
+basics
+
+![](https://cdn-images-1.medium.com/max/1600/1*xSbPcfl5VlgYZWtAZU7wsw.png)
+components
+
+![](https://cdn-images-1.medium.com/max/1600/1*nsU-OFBi_ZwOnGbnOCucpQ.png)
+template
+
+![](https://cdn-images-1.medium.com/max/1600/1*MVhSJTyq_gFsTQAWkttGtA.png)
+feature
+
+![](https://cdn-images-1.medium.com/max/1600/1*ieEMIjzD5iHazWOCHd8Xew.png)
+application
+
+
+---
+
+![](https://storybooks.js.org/f13d28a72b67d2862e10ca5df0f453b3.gif)
+
+![](https://github.com/vue-play/vue-play/raw/master/media/preview.gif)
+
+![](https://camo.githubusercontent.com/163ce219237de67191698b1c6ba0408eeb8a9b40/687474703a2f2f692e696d6775722e636f6d2f4c6376343164632e706e67)
+
+https://react.semantic-ui.com/views/card
+
+---
+
+Joonistused
+
+https://cdn-images-1.medium.com/max/1800/1*WXfRt7TkMsIifor5M4aA7A.jpeg
+https://medium.com/buildit/design-system-architecture-a10e7b3aa30f
+
+https://www.smashingmagazine.com/wp-content/uploads/2015/12/04-one-deliverable-opt-preview.png
+
+https://cdn-images-1.medium.com/max/1440/1*Bp4eHmFtS5pfdPHv4pEwdQ.png
 
