@@ -1,33 +1,145 @@
 
-# Kasutajaliideste<br>kavandamine
-
-### MTAT.03.032
+https://www.youtube.com/watch?v=C65tiyH74D0&t=18m11s
 
 ---
 
-R 19. mai, kolmas kohtumine
+# Issara Willenskomer
+
+**12 kasutajaliideste animatsiooniprintsiipi**
+
+https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
 
 ---
 
-# Slaidid
-
-### http://kristjanjansen.ee/kasutajaliidesed3
-
-&nbsp;
+![](https://cdn-images-1.medium.com/max/1800/1*boQYFGPLtlDof3RRs124bQ.gif)
 
 ---
 
-# Kursuse osad
-
-|||
-|----|----|----|
-|_**R 21. aprill**_|_**Visuaalne disain**_|
-|_**R 28. aprill**_|_**Interaktsioonidisain**_|
-|_**K 17.mai 12:00**_|_**Kodutöö esitamine**_|
-|**R 19. mai**|Disaineri tööprotsess|
-|**R 26. mai**|Kasutajaliideste tulevik|
+![](https://i.vimeocdn.com/video/302061046_780x439.jpg)
 
 ---
+
+
+![](https://cdn-images-1.medium.com/max/1440/1*KcWZCCOMr7QrFpqxWirtMw.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*NBmptOO9ZTC9bQ-98-mWcg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*HwK2vxdY0vveZdvqoEY_8w.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*7rRMvWTms2t7FnR0kyJN3g.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*CCRJjHIyq4PKECbmpUM3rA.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*DJHXB3kDHesSwHxLYeJyFg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*vAAs4k5reIuVNx9KFoZCCw.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*RsyF9JEfaM1evRFPmhMAjA.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*3obIWzQMTkX74ndGcmW_eg.gif)
+
+---
+
+![](https://www.wired.com/wp-content/uploads/2014/06/md-music.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*3IWEaIssuoLSu4U7Y-hdgQ.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*Ek1bbmWLyMJU5wQiMZCSJA.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*Ah_FBCcqm7YsqChgz-GYOA.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*fY2GeYo6Uj0l9qziupfn3Q.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/720/1*FmT4vosDI453IK0aJbuW9Q.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/720/1*2LB6MevUJaYZdRYg39T3Qw.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/720/1*TFFz9-Zl1UIUWRlc1rY11Q.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*XCEmrzdTIbLt0a37pj0nBQ.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*g-MHVlWPL1RF1W4UZIk6Qg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*XhtrzHD5PBpHKuhoJqB7fQ.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/720/1*UsnQMriM_Bjz480Ob70egg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*HrfgNmRzM5VrL0x4xKmGPg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*tVCAaCgws_1Q2u8ViQ6z6w.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*BssDbeOCt1sXpfkh2WxdKw.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*f6MiFmeYfXqGim9Vo8ymwg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*iZuMzfPgGwH_im_9Ofb5vg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1080/1*ni2fxsm6pKMYQ6Jc75DzLw.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*R9wPWQUu26wjibaTBUstqQ.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1440/1*8TYALn5P87i2OuuZfhfELg.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1800/1*boQYFGPLtlDof3RRs124bQ.gif)
+
+---
+
 
 # Emotion
 
@@ -130,6 +242,7 @@ http://apps.thecodepost.org/trex/trex.html
 ![](http://laist.com/images/glaser.jpg)
 
 https://vimeo.com/17084347
+shape of design
 
 ---
 
@@ -662,13 +775,6 @@ logo
 
 ---
 
-https://www.youtube.com/watch?v=C65tiyH74D0
-What sceens want
-18:11
-24:00
-
----
-
 https://www.ibm.com/design/language/experience/animation/elements/
 
 ---
@@ -776,4 +882,35 @@ https://medium.com/buildit/design-system-architecture-a10e7b3aa30f
 https://www.smashingmagazine.com/wp-content/uploads/2015/12/04-one-deliverable-opt-preview.png
 
 https://cdn-images-1.medium.com/max/1440/1*Bp4eHmFtS5pfdPHv4pEwdQ.png
+
+---
+
+
+# Kasutajaliideste<br>kavandamine
+
+### MTAT.03.032
+
+---
+
+R 19. mai, kolmas kohtumine
+
+---
+
+# Slaidid
+
+### http://kristjanjansen.ee/kasutajaliidesed3
+
+&nbsp;
+
+---
+
+# Kursuse osad
+
+|||
+|----|----|----|
+|_**R 21. aprill**_|_**Visuaalne disain**_|
+|_**R 28. aprill**_|_**Interaktsioonidisain**_|
+|_**K 17.mai 12:00**_|_**Kodutöö esitamine**_|
+|**R 19. mai**|Disaineri tööprotsess|
+|**R 26. mai**|Kasutajaliideste tulevik|
 
