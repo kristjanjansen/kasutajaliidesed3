@@ -21,7 +21,7 @@
     import Heading from './components/Heading.vue'
     import Youtube from './components/Youtube.vue'
     import Photo from './components/Photo.vue'
-    import Typo3 from './components/Typo3.vue'
+    import Fields from './components/Fields.vue'
 
     import marked from 'marked';
     var renderer = new marked.Renderer();
@@ -33,7 +33,7 @@
 
     export default {
         name: 'App',
-        components: { Markup, Heading, Youtube, Photo, Typo3 },
+        components: { Markup, Heading, Youtube, Photo, Fields },
         data: () => ({
             slides: [],
             currentSlide: 0,
@@ -105,16 +105,24 @@
 </script>
 
 <style>
-    
-    *,
-    *::before,
-    *::after {
-      margin: 0;
-      padding: 0;
-      text-decoration: none;
-      color: black;
-      box-sizing: border-box;
-      list-style: none;
+    * {
+        box-sizing: border-box;
+        outline: none;
+    }
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-size: calc(1em + 1vw);
+        line-height: 1.5em;
+    }
+    h1 {
+        font-size: calc(1em + 3vw);
+        line-height: 100%;
+    }
+    h2 {
+        font-size: calc(1em + 2vw);
+        line-height: 120%;
     }
     .prev {
         position: fixed;

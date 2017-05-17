@@ -29,7 +29,7 @@
     }
     .photo img {
         object-fit: cover;
-        width: 80vw;
+        height: 80vh;
         align-self: center
     }
 
