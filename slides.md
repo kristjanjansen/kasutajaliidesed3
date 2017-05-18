@@ -41,24 +41,35 @@ https://www.youtube.com/watch?v=p4gmvHyuZzw
 
 ---
 
-> SIIA MIDAGI VAHELE? VEEB? VMS?
+# Samal ajal veebis
+
+https://www.apple.com/hotnews/thoughts-on-flash/
+
+Steve Jobs, 2010 aasta aprill
+
+&nbsp;
+
+https://www.smashingmagazine.com/2010/05/html5-and-flash-why-its-not-a-war-and-why-flash-wont-die/
+
+2010 aasta mai
 
 ---
 
-12 principles of animation
+# Veeb ja animatsioon 2017
+
+CSS / JS / WebGL / React Motion / Vue 2
+
+GPU / 60fps
+
+Tehnoloogia taha asi ei jää
+
+---
+
+# Disney
+
+**12 animatsiooniprintsiipi**
 
 https://vimeo.com/93206523
-
----
-
-Val Head
-http://valhead.com
-
-![](http://static1.squarespace.com/static/524e0f31e4b002c94bd0a2f4/55ac0468e4b0ee38db34b124/55ac0586e4b0ee38db350f01/1428075598000/valheadtucker13.jpg?format=original)
-
----
-
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj8xfPq0vfTAhUD1SwKHVqoAcYQjRwIBw&url=http%3A%2F%2Frosenfeldmedia.com%2Fbooks%2Fdesigning-interface-animation%2F&psig=AFQjCNGYmWV7JGqbjEEsIMP3PLH9kG_M2Q&ust=1495135209490517)
 
 ---
 
@@ -90,13 +101,17 @@ https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-
 
 ---
 
-# Easing 
+### Easing 
 
 https://codepen.io/juliangarnier/full/mWdraw/
 
 http://dynamicsjs.com/
 
-http://cubic-bezier.com/
+http://cubic-bezier.com (Lea Verou)
+
+---
+
+![](https://c1.staticflickr.com/8/7361/9143287075_eb4083a658_b.jpg)
 
 ---
 
@@ -218,31 +233,9 @@ https://vimeo.com/160982669
 
 ---
 
-# Deconstruction
+# Animatsiooni ülekasutus või kultuuriline eripära?
 
----
-
-![](https://s-media-cache-ak0.pinimg.com/originals/d9/10/1d/d9101df94ecc163bbb1a736b1a089ae0.gif)
-
-![](images/toggle1.gif)
-
----
-
-![](https://cdn.dribbble.com/users/552246/screenshots/3300757/day_15_on_off.gif)
-
-![](images/toggle2.gif)
-
----
-
-![](https://cdn-images-1.medium.com/max/1600/1*JYP1cLHjbCSOkSSyCVt6GA.gif)
-
-![](images/form.gif)
-
----
-
-# Animatsiooni ülekasutus
-
-või kultuuriline eripära?
+Kas Flash on tagasi?
 
 ---
 
@@ -293,12 +286,87 @@ Donald Norman "Emotional Design"
 # Kasutajakogemus ja aju
 
 limbic system / visceral mind: / "Äge näeb välja"
+
 neocortex / analytical mind / "Täita hästi töötab"
+
 mid-brain / _**emotion**_ / "See muutis mu elu"
 
 ---
 
-# Microinteractions
+![](http://ecimages.kobobooks.com/Image.ashx?imageID=9HWL60I3kk-UGuWr35TyTw)
+
+---
+
+![](https://www.barbarianmeetscoding.com/images/UX-hierarchy-of-needs-model.png)
+
+---
+
+# Mailchimp
+
+---
+
+![](https://blog.kissmetrics.com/wp-content/uploads/2012/03/mailchimp-homepage-conversions.jpg)
+
+---
+
+![](https://blog.mailchimp.com/wp-content/uploads/2009/10/why-am-i-smiling.gif)
+
+---
+
+![](https://blog.mailchimp.com/wp-content/uploads/2009/10/part-pooper-mode.gif)
+
+---
+
+![](images/chimp0.png)
+
+---
+
+![](images/chimp1.jpg)
+
+---
+
+![](images/chimp2.jpg)
+
+---
+
+![](http://reddi.no/wp-content/uploads/2014/05/scheduled_mailchimp_500px.jpg)
+
+---
+
+# Mailchimp
+
+Aarron Walter
+
+"We’ve heard from some users who want the app to be more buttoned up and “professional.” We actually created a special mode in the app called “party pooper mode” that people can turn on to satisfy the frumpiest of bosses. As it turns out, only 0.007 percent of our users turn it on."
+
+---
+
+![](https://blog.mailchimp.com/wp-content/uploads/2009/10/part-pooper-mode.gif)
+
+---
+
+
+# 404 lehed
+
+https://github.com/404
+
+https://www.airbnb.com/404
+
+https://www.uber.com/404
+
+---
+
+# 404 lehed
+
+https://www.bloomberg.com/404
+
+http://www.whatisfailwhale.info
+
+https://www.figma.com/404
+
+---
+
+# Mikrointeraktsioonid
 
 Dan Shaffer
 
@@ -308,7 +376,7 @@ Dan Shaffer
 
 ---
 
-> iPhone’s mute switch provides multi-modal feedback — the haptic feedback from the switch, the vibration of the device, and the UI overlay on the display.
+> iPhone’s mute switch
 
 ---
 
@@ -318,7 +386,7 @@ Dan Shaffer
 
 ---
 
-https://usesthis.com/images/interviews/loren.brichter/portrait.jpg
+![](https://usesthis.com/images/interviews/loren.brichter/portrait.jpg)
 
 ---
 
@@ -337,26 +405,6 @@ https://youtu.be/Emk65QW9BmM?t=44s
 ---
 
 http://littlebigdetails.com/
-
----
-
-# 404 lehed
-
-&nbsp;
-
----
-
-https://github.com/404
-
-https://www.airbnb.com/404
-
-https://www.uber.com/404
-
-https://www.bloomberg.com/404
-
-http://www.whatisfailwhale.info
-
-https://www.figma.com/404
 
 ---
 
@@ -842,3 +890,26 @@ https://www.youtube.com/watch?v=FXUW8qbbcHw
 
 Hitler
 
+---
+
+---
+
+# Deconstruction
+
+---
+
+![](https://s-media-cache-ak0.pinimg.com/originals/d9/10/1d/d9101df94ecc163bbb1a736b1a089ae0.gif)
+
+![](images/toggle1.gif)
+
+---
+
+![](https://cdn.dribbble.com/users/552246/screenshots/3300757/day_15_on_off.gif)
+
+![](images/toggle2.gif)
+
+---
+
+![](https://cdn-images-1.medium.com/max/1600/1*JYP1cLHjbCSOkSSyCVt6GA.gif)
+
+![](images/form.gif)
